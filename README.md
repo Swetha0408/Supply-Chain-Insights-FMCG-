@@ -66,4 +66,13 @@ Power BI Desktop
 DAX (Time Intelligence, KPI Calculations)
 Data Modeling
 Interactive Slicers & Drill-through
-Performance Analysis<img width="1032" height="722" alt="image" src="https://github.com/user-attachments/assets/06aa99cb-61f5-493e-8d2a-8f06364a082e" />
+Performance Analysis
+<img width="1032" height="722" alt="image" src="https://github.com/user-attachments/assets/06aa99cb-61f5-493e-8d2a-8f06364a082e" />
+<img width="1027" height="715" alt="image" src="https://github.com/user-attachments/assets/b1e05bdb-e2fe-4045-85c2-7889f8da3b8c" />
+<img width="992" height="727" alt="image" src="https://github.com/user-attachments/assets/70392cf6-6510-4346-b830-7f7d7bfe6656" />
+<img width="1047" height="691" alt="image" src="https://github.com/user-attachments/assets/b6254501-1512-49c8-863d-921c4b48ea69" />
+<img width="1068" height="717" alt="image" src="https://github.com/user-attachments/assets/773be248-460f-4f45-8ad5-050d08ca8f49" />
+
+
+
+
